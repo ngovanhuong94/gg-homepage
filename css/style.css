@@ -74,6 +74,11 @@ input[type=text] {
 	border: none;
 	padding: 10px 15px;
 	color: #757575;
+	cursor: pointer;
+}
+
+.content button:hover{
+	background-color: #f9f9f9;
 }
 
 .content p{
